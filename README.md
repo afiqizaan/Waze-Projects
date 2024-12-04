@@ -32,6 +32,6 @@ This repository contains a series of projects focused on analyzing Waze user dat
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Waze_Projects.git
+   git clone https://github.com/afiqizaan/Waze-Projects.git
 2. Navigate to individual project directories for detailed analyses.
 3. Open .ipynb files in Jupyter Notebook or Google Colab to explore the code.
