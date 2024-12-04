@@ -15,7 +15,6 @@ This project demonstrates knowledge of hypothesis testing using Waze's dataset. 
 ## Tools and Libraries
 - Python
 - Pandas, Scipy
-- Matplotlib/Seaborn
 
 ## Deliverables
 - Hypothesis testing results and insights.
